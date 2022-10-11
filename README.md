@@ -12,8 +12,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <p>Currently Studying in Masai School To become a Full-Stack-Web-Developer. 
-     I have completed my Diploma  in Electronics and communication engneering from GMR Institute of technology,Rajam later. Later I worked as a NDT-Multitechnician from 2016-2021.Over here,I performed Ultrasonic Testing(UT), Radiography Testing(RT), Dry Penetrant Testing(DPT) and Magnetic Particle Testing(MPT) for Welding joints, Boilers and Gas pipelines.During lockdown like many others we also didn’t get any work and had to stay back at home. 
- I focuses on writing clean, elegant and efficient code. I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
+     I have completed my Diploma  in Electronics and communication engneering from GMR Institute of technology,Rajam. Later I worked as a NDT-Multitechnician from 2016-2021.Over here,I performed Ultrasonic Testing(UT), Radiography Testing(RT), Dry Penetrant Testing(DPT) and Magnetic Particle Testing(MPT) for Welding joints, Boilers and Gas pipelines. I am intrested in coding during lockdown so, I joined in MASAI school. I focuses on writing clean, elegant and efficient code. I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
 <br>
 
 <!-- <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" /> -->
@@ -23,7 +22,7 @@
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
-- 👨‍💻 All of my projects are available at <a href="https://bespoke-caramel-b3e0ef.netlify.app" target="_blank">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a href="" target="_blank">PORTFOLIO</a>
 
 - 💬 Ask me about *MERN stack*
 
@@ -79,27 +78,29 @@
   <br/>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
-<div align="center">
+<!--   <div align="center">
 <h2><i> Let's Connect</i></h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/m-nagaraju-raju-074a4a22a">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/m-nagaraju-raju-074a4a22a" />
+    <a href="https://www.linkedin.com/in/priyanka-phulmante-181633191/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/priyanka-phulmante-181633191/" />
     </a>
-  
-<!--     <a title="nagarajumedida123@gmail.com" href="nagarajumedida123@gmail.com">
+    <a href="https://twitter.com/priyankaphulma1">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/priyankaphulma1" />
+    </a>
+    <a title="priyankaphulmante98@gmail.com" href="priyankaphulmante98@gmail.com.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-           alt="nagarajumedida123@gmail.com"/>
-    </a> -->
-<!--     <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
+           alt="priyankaphulmante98@gmail.com"/>
+    </a>
+    <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
-    </a> -->
-<a href="https://drive.google.com/file/d/18ZVIfS23vHgXyPefOS7fXwxVOV4oSGdQ/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
+    </a>
+<a href="https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
 </a>
 </p>
 </div>
 <br>
 
-<hr />
+<hr /> -->
 
 <!------------------------------------- githuib status part -------------------------------->
 
@@ -125,7 +126,7 @@
  	
 <p align="center">
     <a href="https://github.com/Nagarajumedida/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nagarajumedida's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nagarajumedida's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagarajumedida&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   
