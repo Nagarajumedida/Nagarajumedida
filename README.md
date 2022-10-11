@@ -11,14 +11,15 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<p>Currently Studying in Masai School To become a Full-Stack-Web-Developer and I also pursuving PGDM in information technology from MIT School of managment, Pune. 
-     I have completed my Diploma  in Electronics and communication engneering from GMR Institute of technology,Rajam later. I pushed myself into MERN stack development which is an amazing     technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focuses on writing clean, elegant and efficient code. I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
+<p>Currently Studying in Masai School To become a Full-Stack-Web-Developer. 
+     I have completed my Diploma  in Electronics and communication engneering from GMR Institute of technology,Rajam later. Later I worked as a NDT-Multitechnician from 2016-2021.Over here,I performed Ultrasonic Testing(UT), Radiography Testing(RT), Dry Penetrant Testing(DPT) and Magnetic Particle Testing(MPT) for Welding joints, Boilers and Gas pipelines.During lockdown like many others we also didn’t get any work and had to stay back at home. 
+ I focuses on writing clean, elegant and efficient code. I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
 <br>
 
 <!-- <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" /> -->
 
 
-- 🔭 I’m currently working on *MERN Stack*
+- 🔭 I’m currently working on *Full Stack Developer*
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
@@ -28,7 +29,7 @@
 
 - 📫 How to reach me *nagarajumedida123@gmail.com*
 
-- 📄 Know about my work in my <a href="[https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing](https://drive.google.com/file/d/18ZVIfS23vHgXyPefOS7fXwxVOV4oSGdQ/view?usp=sharing)" target="_blank">RESUME</a>
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/18ZVIfS23vHgXyPefOS7fXwxVOV4oSGdQ/view?usp=sharing" target="_blank">RESUME</a>
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
 
@@ -73,10 +74,7 @@
      <br />
      <br />
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
-    <a href="https://leetcode.com/priyankaphulmante98">
-    <img align="center" alt="priyanka's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" /></a>&nbsp
-    <a href="https://www.hackerrank.com/priyankaphulman1">
-    <img align="center" alt="priyanka's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" /></a>
+
 </div>
   <br/>
 
@@ -84,20 +82,18 @@
 <div align="center">
 <h2><i> Let's Connect</i></h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/priyanka-phulmante-181633191/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/priyanka-phulmante-181633191/" />
+    <a href="https://www.linkedin.com/in/m-nagaraju-raju-074a4a22a">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/m-nagaraju-raju-074a4a22a" />
     </a>
-    <a href="https://twitter.com/priyankaphulma1">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/priyankaphulma1" />
-    </a>
-    <a title="priyankaphulmante98@gmail.com" href="priyankaphulmante98@gmail.com.com">
+  
+    <a title="nagarajumedida123@gmail.com" href="nagarajumedida123@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-           alt="priyankaphulmante98@gmail.com"/>
+           alt="nagarajumedida123@gmail.com"/>
     </a>
-    <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
+<!--     <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
-    </a>
-<a href="https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
+    </a> -->
+<a href="https://drive.google.com/file/d/18ZVIfS23vHgXyPefOS7fXwxVOV4oSGdQ/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
 </a>
 </p>
 </div>
@@ -128,14 +124,14 @@
  <hr/>
  	
 <p align="center">
-    <a href="https://github.com/priyankaphulmante98/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="priyanka phulmante's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Nagarajumedida/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nagarajumedida's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   
-<p align="center"<a href="#"><img alt="Priyanka" src="https://activity-graph.herokuapp.com/graph?username=priyankaphulmante98&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Nagarajumedida" src="https://activity-graph.herokuapp.com/graph?username=Nagarajumedida&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
-<p align="center"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
+<p align="center"> <a href="https://github.com/Nagarajumedida"><img src="https://github-profile-trophy.vercel.app/?username=Nagarajumedida&margin-w=5&theme=radical" alt="Nagarajumedida" /></a> </p>
 
  </div>
 
