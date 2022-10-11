@@ -86,10 +86,10 @@
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/m-nagaraju-raju-074a4a22a" />
     </a>
   
-    <a title="nagarajumedida123@gmail.com" href="nagarajumedida123@gmail.com">
+<!--     <a title="nagarajumedida123@gmail.com" href="nagarajumedida123@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="nagarajumedida123@gmail.com"/>
-    </a>
+    </a> -->
 <!--     <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
     </a> -->
