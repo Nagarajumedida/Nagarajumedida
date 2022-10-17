@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
-- 👨‍💻 All of my projects are available at <a href="" target="_blank">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a href="https://nagarajumedida.github.io/" target="_blank">PORTFOLIO</a>
 
 - 💬 Ask me about *MERN stack*
 
