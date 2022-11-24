@@ -28,7 +28,7 @@
 
 - 📫 How to reach me *nagarajumedida123@gmail.com*
 
-- 📄 Know about my work in my <a href="https://drive.google.com/file/d/18ZVIfS23vHgXyPefOS7fXwxVOV4oSGdQ/view?usp=sharing" target="_blank">RESUME</a>
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1LYZ6RFpCt2AQ_v59XF574h4BC5BVyowR/view?usp=sharing" target="_blank">RESUME</a>
 - <a href="https://www.linkedin.com/in/m-nagaraju-raju-074a4a22a/">Linkedin</a>
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
